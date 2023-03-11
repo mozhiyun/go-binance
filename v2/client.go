@@ -102,7 +102,7 @@ type AccountType string
 
 // Endpoints
 const (
-	baseAPIMainURL    = "https://api.binance.com"
+	baseAPIMainURL    = "https://data.binance.com"
 	baseAPITestnetURL = "https://testnet.binance.vision"
 )
 
